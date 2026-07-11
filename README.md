@@ -4,9 +4,8 @@ A full CRUD Notice Board built with Next.js (Pages Router), Prisma, and a hosted
 MySQL database, deployed on Vercel — built for the Reno Platforms Web
 Development Assignment.
 
-- **Live app:** https://your-vercel-url.vercel.app   (we'll get this in the next step)
-- **Repo:** https://github.com/omkale194/notice-board
-## Features
+- **Live app:** https://notice-board-om-kale1.vercel.app
+- **Repo:** https://github.com/omkale194/notice-board## Features
 
 - List all notices as responsive cards (phone + desktop grid).
 - Create and edit notices through one shared form (`components/NoticeForm.js`).
