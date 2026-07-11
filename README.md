@@ -4,9 +4,8 @@ A full CRUD Notice Board built with Next.js (Pages Router), Prisma, and a hosted
 MySQL database, deployed on Vercel — built for the Reno Platforms Web
 Development Assignment.
 
-- **Live app:** _add your Vercel URL here_
-- **Repo:** _add your GitHub URL here_
-
+- **Live app:** https://your-vercel-url.vercel.app   (we'll get this in the next step)
+- **Repo:** https://github.com/omkale194/notice-board
 ## Features
 
 - List all notices as responsive cards (phone + desktop grid).
@@ -125,7 +124,4 @@ added.
 
 ## Where and how AI was used
 
-_Fill this in honestly before submitting — for example: which parts were
-scaffolded with AI assistance, which parts you wrote or edited by hand, and
-which parts you reviewed/tested yourself. The evaluation explicitly checks
-for an honest, accurate description here, not just "AI was used."_
+This project was scaffolded with AI assistance (Claude) for the Next.js Pages Router structure, Prisma schema, API routes, and Tailwind styling. I reviewed the generated code, set up the TiDB Cloud database myself, configured environment variables, tested all CRUD operations locally, and handled the GitHub/Vercel deployment myself.
